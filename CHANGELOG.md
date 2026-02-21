@@ -1,5 +1,10 @@
 # Changelog
 
+
+## 1.0.1 (2026-02-21)
+
+Release.
+
 ## 1.0.0 (2026-02-21)
 
 Initial release. All xAI Grok API functions in one repo.
